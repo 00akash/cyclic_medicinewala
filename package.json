@@ -4,7 +4,8 @@
   "main": "homepage.js",
   "scripts": {
     "server": "cd server && node index.js",
-    "start": "concurrently \"node app.js\" \"npm run server\""
+    "start": "concurrently \"node app.js\" \"npm run server\"",
+    "build":"npm install"
   },
   "author": "",
   "license": "ISC",
