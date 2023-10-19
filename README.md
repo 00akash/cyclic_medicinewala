@@ -35,12 +35,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ###
 
+### Set database
 ### Running the project
 
     $ npm start
     
-### Project URL link : will give after hosting
-    
-    
-### SRS document + ER diagram + DFD + Use Case diagram link : will share my drive link hare later
-
